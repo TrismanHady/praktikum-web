@@ -10,6 +10,6 @@
 	require_once './Koneksi.php';
 ?>
 
-<h4>Koneksi Berhasil</h4>
+<h4>Koneksi Berhasil TOD!!</h4>
 </body>
 </html>
